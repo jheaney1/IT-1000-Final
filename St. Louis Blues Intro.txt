@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<h1>St. Louis Blues</h1>
+	<div id="introduction">
+		<h2>Intro</h2>
+		<p>The St. Louis Blues are a professional ice hockey team based in St. Louis. The Blues compete in the National Hockey League (NHL). The Blues play their home games at the 19,150-seat Enterprise Center in downtown St. Louis. There colors are blue, 				
+gold, and white.</p>
+		<img src= "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/St._Louis_Blues_logo.svg/1920px-St._Louis_Blues_logo.svg.png"  alt ="St. Louis Blues Logo"/>
+
